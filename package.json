@@ -1,0 +1,16 @@
+{
+"name": "miami90",
+"theme": "miami90",
+"version": "1.9.9",
+"description": "miami90 ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง อันดับ 1 ให้เงินเครดิตฟรี",
+"keywords": [
+"miami90",
+"miami90 เครดิตฟรี",
+"miami90 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/miami90",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
